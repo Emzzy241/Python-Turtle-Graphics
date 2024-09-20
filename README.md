@@ -40,6 +40,11 @@ This will draw the rectangle shape
 ## Known Bugs
 * _No known Bugs_
 
+
+## License
+* MIT
+
+
 ## Contact Info
 * _Email: emzzyoluwole@gmail.com_
 * _Instagram @Emmanuel.9944_
