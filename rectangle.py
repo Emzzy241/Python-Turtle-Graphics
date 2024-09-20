@@ -1,0 +1,15 @@
+import turtle
+
+print("Drawing the Rectangle shape with the turtle module from python")
+turtle.bgcolor("brown")
+turtle.speed(1)
+turtle.forward(300)
+turtle.left(90)
+turtle.forward(150)
+turtle.left(90)
+turtle.forward(500)
+turtle.left(90)
+turtle.forward(150)
+turtle.left(90)
+turtle.forward(200)
+turtle.done()
